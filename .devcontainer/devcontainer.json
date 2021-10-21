@@ -1,5 +1,5 @@
 {
-	"image": "ghcr.io/twin-digital/devcontainer-nodejs:main",
+	"image": "ghcr.io/twin-digital/devcontainer-nodejs:latest",
 
 	"extensions": [
 		"arcanis.vscode-zipfs",
