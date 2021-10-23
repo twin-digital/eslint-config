@@ -35,4 +35,3 @@ jobs:
         allowed_prefixes: 'feat:,fix:,build:,chore:,ci:,docs:,style:,refactor:,test:,revert:'
         prefix_case_sensitive: true
         min_length: 10
-        max_length: 50
