@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "local>twin-digital/.github:renovate-config"
+  ]
+}
