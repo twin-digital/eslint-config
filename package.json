@@ -7,7 +7,7 @@
     "@typescript-eslint/parser": "5.4.0"
   },
   "devDependencies": {
-    "semantic-release": "18.0.0"
+    "semantic-release": "18.0.1"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.1.0",
