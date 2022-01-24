@@ -4,7 +4,7 @@
   "description": "An eslint configuration that works for us.",
   "license": "MIT",
   "dependencies": {
-    "@typescript-eslint/parser": "5.10.0"
+    "@typescript-eslint/parser": "5.10.1"
   },
   "devDependencies": {
     "semantic-release": "18.0.1"
